@@ -1,6 +1,6 @@
-# ahia
+# E-Commerce Customer App
 
-A new Flutter project.
+A complete customer e-commerce app with many features. Built with Flutter and Firebase.
 
 ## Getting Started
 
